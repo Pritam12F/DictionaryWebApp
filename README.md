@@ -1,1 +1,1 @@
-# WeatherWebApp
+# Dictionary Web App
